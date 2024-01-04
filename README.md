@@ -23,22 +23,31 @@ This is heavily biased guide to the historical development of artificial intelli
 2. 1950, October : [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
    - **summary** : Proposal of the Turing Test, a model for determining whether a machine has human level intelligence
    - **authors** : Alan Turing
-3. 1956, September : [The logic theory machine--A complex information processing system](https://ieeexplore.ieee.org/document/1056797)
+3. 1955, August : [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf)
+   - **summary** : The founding document for the field of AI
+   - **authors** : John McCarthy, Marvin Minsky, Nathaniel Rochester, Claude E. Shannon
+4. 1956, September : [The logic theory machine--A complex information processing system](https://ieeexplore.ieee.org/document/1056797)
    - **summary** : First automated reasoning program
    - **authors** : A. Newell, H. Simon & C. Shaw
-4. 1959 [Programs with Common Sense](http://jmc.stanford.edu/articles/mcc59.html)
+5. 1959 [Programs with Common Sense](http://jmc.stanford.edu/articles/mcc59.html)
    - **summary** : Common Sense Reasoning
    - **authors** : John McCarthy
-5. 1959 : [GPS, a Program that Simulates Human Thought](https://iiif.library.cmu.edu/file/Simon_box00064_fld04907_bdl0001_doc0001/Simon_box00064_fld04907_bdl0001_doc0001.pdf)
+6. 1959 : [GPS, a Program that Simulates Human Thought](https://iiif.library.cmu.edu/file/Simon_box00064_fld04907_bdl0001_doc0001/Simon_box00064_fld04907_bdl0001_doc0001.pdf)
    - **summary** : Described the General Problem Solver (GPS), an early AI program designed to mimic human problem-solving.
    - **authors** : H. Newell, J.C. Shaw, and H.A. Simon
+7. 1959, July : [Some Studies in Machine Learning Using the Game of Checkers](https://ieeexplore.ieee.org/document/5392560)
+   - **summary** : Described one of the first successful self-learning programs, applying machine learning to checkers.
+   - **authors** : Arthur Samuel
 
 ### 1960s
 
 1. 1965, June : [Fuzzy Sets](https://www.sciencedirect.com/science/article/pii/S001999586590241X)
    - **summary** : Introduction of Fuzzy Sets
    - **authors** : L.A. Zadeh
-2. 1969 : [Perceptrons: An Introduction to Computational Geometry](https://academic.oup.com/mind/article/LIX/236/433/986238)
+2. 1968, July : [A Formal Basis for the Heuristic Determination of Minimum Cost Paths](https://ieeexplore.ieee.org/document/4082128)
+   - **summary** : Introduced the A\* search algorithm, a cornerstone in pathfinding and graph traversal algorithms in AI.
+   - **authors** : Peter E. Hart, Nils J. Nilsson, Bertram Raphael
+3. 1969 : [Perceptrons: An Introduction to Computational Geometry](https://academic.oup.com/mind/article/LIX/236/433/986238)
    - **summary** : This book critically analyzed the capabilities and limits of perceptrons, influencing the direction of AI research and leading to the first AI winter.
    - **authors** : Marvin Minsky, Seymour Papert
 
