@@ -14,6 +14,11 @@ This is heavily biased guide to the historical development of artificial intelli
    - **authors** : Claude E. Shannon
    - **references** :
      - [Wikipedia](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication#cite_note-Shannon_1948_1-1)
+3. 1949 : [The Organization of Behavior: A Neuropsychological Theory](https://www.amazon.com/-/en/D-Hebb/dp/0805843000)
+   - **summary** : The introduction of Hebbian learning, a foundational concept in neural network theory.
+   - **authors** : D. O. Hebb
+   - **references** :
+     - [Wikipedia](https://en.wikipedia.org/wiki/Organization_of_Behavior)
 
 ### 1950s
 
@@ -55,10 +60,13 @@ This is heavily biased guide to the historical development of artificial intelli
 
 ### 1980s
 
-1. 1986, March : [Induction of decision trees](https://link.springer.com/article/10.1007/BF00116251)
+1. 1984, November : [A Theory of the Learnable](https://dl.acm.org/doi/pdf/10.1145/1968.1972)
+   - **summary** : laid the foundation for computational learning theory, introducing the concept of Probably Approximately Correct (PAC) learning.
+   - **authors** : Leslie Valiant
+2. 1986, March : [Induction of decision trees](https://link.springer.com/article/10.1007/BF00116251)
    - **summary** : In
    - **authors** : J. R. Quinlan
-2. 1986, October : [Learning representations by back-propagating errors
+3. 1986, October : [Learning representations by back-propagating errors
    ](https://www.nature.com/articles/323533a0)
    - **summary** : This paper introduced the backpropagation algorithm, a cornerstone in training neural networks.
    - **authors** : David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams
